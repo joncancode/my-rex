@@ -20,7 +20,7 @@ userSchema.pre('save', function(next){
     this.password = this._hashPassword(this.password);
     return next();
   }
-  return next();
+  return next()
 });
 
 //Automatically hashes USER password if password is updated
