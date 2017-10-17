@@ -27,6 +27,10 @@ button:hover {
     padding: 10px;
 }
 
+.required-heading {
+    font-style: italic;
+}
+
 div, form, img, p, h2, label, h1 {
     background-color: lightgray;
 }
