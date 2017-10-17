@@ -1,7 +1,5 @@
-# [My Rex](https://whispering-lowlands-15370.herokuapp.com/)
-[My Rex](https://whispering-lowlands-15370.herokuapp.com/) provides a way for users to list titles they like, then see what they may enjoy, based on their preferences. Users can list movies, books, TV shows, and music, then discover what they may be missing.
-
-tentative url: https://joncancode.github.io/my-rex/public/index.html
+# [My Rex](https://myrex.herokuapp.com/)
+[My Rex](https://myrex.herokuapp.com/) provides a way for users to list titles they like, then see what they may enjoy, based on their preferences. Users can list movies, books, TV shows, and music, then discover what they may be missing.
 
 ## Installation guide: 
 
